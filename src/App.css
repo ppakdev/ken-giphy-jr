@@ -1,0 +1,49 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  padding: 20px;
+  color: white;
+}
+
+.search-form {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.search-list-container {
+  background-color: rgba(50,50,50,0.7);
+  padding: 10px; 
+}
+
+.results-container {
+  background-color: rgba(20,20,60,0.7);
+  align-items: flex-start;  
+  display: flex; 
+  flex-direction: column; 
+  flex-wrap: wrap;
+  height: 120vw;
+  width: 100vw;
+  padding: 10px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.ui.raised.card {
+  display: inline-flex;
+  margin: 3px;
+  width: 24%;
+}
+
+.ui.raised.card img {
+  width: 100%;
+  height: auto;
+}
