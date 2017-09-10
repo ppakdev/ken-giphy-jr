@@ -13,7 +13,7 @@ npm install && npm start
 ```sh
 yarn && yarn start
 ```
-### Then your browser should open to localhost:3000
+### Then your browser should open to localhost:3000 if not.. go to localhost:3000
 
 ---
 ### TODO:
